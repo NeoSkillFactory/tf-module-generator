@@ -1,6 +1,6 @@
 {
   "name": "tf-module-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OpenClaw skill that automatically generates Terraform modules from existing cloud infrastructure resources with intelligent resource detection and best-practice code formatting.",
   "main": "scripts/main.js",
   "bin": {
