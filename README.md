@@ -29,8 +29,6 @@ Automatically generates Terraform modules from existing cloud infrastructure res
 
 Source code: [github.com/NeoSkillFactory/tf-module-generator](https://github.com/NeoSkillFactory/tf-module-generator)
 
-**Price suggestion:** $29
-
 ## License
 
 MIT © NeoSkillFactory
